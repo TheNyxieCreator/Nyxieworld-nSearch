@@ -1,0 +1,23 @@
+body{
+	background-color: #FAFAFA;
+	display: block;
+	margin: 8px;
+}
+
+div{
+	display: block;
+	unicode-bidi: isolate;
+}
+
+.title{
+	font-weight: bold;
+	font-size: 84px;
+}
+
+a{
+	text-decoration: none;
+}
+
+.textfooter{
+	text-decoration: none;
+}
