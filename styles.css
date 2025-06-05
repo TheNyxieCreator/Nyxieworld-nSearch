@@ -2,6 +2,7 @@ body{
 	background-color: #FAFAFA;
 	display: block;
 	margin: 8px;
+	font-family: "Tahoma", sans-serif;
 }
 
 div{
@@ -16,8 +17,13 @@ div{
 
 a{
 	text-decoration: none;
+	color: blue;
 }
 
 .textfooter{
 	text-decoration: none;
+}
+
+#q{
+/*Search Bar*/
 }
